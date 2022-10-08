@@ -1,0 +1,60 @@
+{"data" : [
+  {
+    "id": 1,
+    "title": "Samsung S21",
+    "description": "black in color and 108 px camera,64GB Ram",
+    "price": "2500",
+    "img": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "quantity": 0
+  },
+  {
+      "id": 2,
+      "title": "Xiaomi M21",
+      "description": "this is the slimest phone",
+    "price": "2300",
+    "img": "https://images.pexels.com/photos/47261/pexels-photo-47261.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "quantity": 0
+  },
+  {
+      "id": 3,
+    "title": "iPhone 13",
+    "description": "gold in color iphone13 premium",
+    "price": "93500",
+    "img": "https://cdn.pixabay.com/photo/2014/08/05/10/30/iphone-410324_960_720.jpg",
+    "quantity": 0
+  },
+  {
+      "id": 4,
+    "title": "Shoes",
+    "description": "This shoes is suitable for running, canvas shoes for men",
+    "price": "8000",
+    "img": "https://cdn.pixabay.com/photo/2016/11/19/18/06/feet-1840619_960_720.jpg",
+    "quantity": 0
+  },
+  {
+      "id": 5,
+    "title": "Samsung S21",
+    "description": "black in color",
+    "price": "2500",
+    "img": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "quantity": 0
+  },
+  {
+      "id": 6,
+    "title": "Redmi 9",
+    "description": "black in color Os snapdragons",
+    "price": "3500",
+    "img": "https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-9-pro-global-0.jpg",
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "title": "Suit",
+    "description": "This is suit for wedding or traditional function , mens wear ",
+    "price": "4500",
+    "img": "https://cdn.pixabay.com/photo/2022/06/21/08/57/male-7275449_960_720.jpg",
+    "quantity": 0
+  }
+ 
+]
+}
